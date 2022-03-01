@@ -1,0 +1,11 @@
+body {
+    background-color: linen ;
+    font-family: Garamond, serif ;  
+}
+
+div {
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+  }
